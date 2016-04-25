@@ -34,6 +34,7 @@ You can reach us through our GitHub for any questions, comments, concerns.
 • phpMyAdmin<br>
 • Twig<br>
 • CSS<br>
+• phpUnit<br>
 • Apache<br>
 • MySQL<br>
 • PHP<br>
