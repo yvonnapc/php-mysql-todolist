@@ -42,4 +42,4 @@ You can reach us through our GitHub for any questions, comments, concerns.
 
 ### License
 
-Copyright (c) 2016 |  Yvonna Contreras & Nic Netzel |  Epicodus  | Portland, OR
+Copyright (c) 2016 |  Yvonna Contreras & Josh Overly |  Epicodus  | Portland, OR
